@@ -1,8 +1,8 @@
 ### Movie Info App
-a movie info app made with javascript.
-used a movie database api and i got data from api and this code is also responsive❗️
+Used a movie database api and this code is also responsive.
+Made with javascript.
 
 # Screenshot
 Here we have project screenshot :
 
-![screenshot](screenshot.jpg)
+![screenshot](image,png)
