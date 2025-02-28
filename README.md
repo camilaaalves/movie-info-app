@@ -1,6 +1,5 @@
 ### Movie Info App
-Used a movie database api and this code is also responsive.
-
+The code allows the user to search for movies by name and displays detailed information about the movie, such as the title, poster, IMDB rating, plot, and cast, by fetching data from the OMDB API. If there is an error or invalid input, it shows an error message.
 Made with javascript.
 
 # Screenshot
